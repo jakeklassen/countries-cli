@@ -1,0 +1,38 @@
+{
+  "name": "countries-cli",
+  "version": "0.1.0",
+  "description": "Query country information.",
+  "author": {
+    "name": "Jake Klassen",
+    "email": "jklassendev@gmail.com"
+  },
+  "license": "MIT",
+  "bin": {
+    "countries-cli": "cli.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": ["cli.js"],
+  "keywords": ["cli-app", "cli", "countries", "country"],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "country-data": "^0.0.31",
+    "jsome": "^2.5.0",
+    "title-case": "^2.1.1",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "execa": "^0.10.0",
+    "prettier": "^1.12.1"
+  }
+}
