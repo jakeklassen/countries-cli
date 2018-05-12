@@ -1,4 +1,4 @@
-# countries-cli [![Build Status](https://travis-ci.org/j-klassen/countries-cli.svg?branch=master)](https://travis-ci.org/j-klassen/countries-cli)
+# countries-cli [![Build Status](https://travis-ci.org/jakeklassen/countries-cli.svg?branch=master)](https://travis-ci.org/jakeklassen/countries-cli)
 
 > Query country information from the [country-data](https://www.npmjs.com/package/country-data) npm package.
 
