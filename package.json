@@ -1,6 +1,6 @@
 {
   "name": "countries-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Query country information.",
   "repository": "jakeklassen/countries-cli",
   "author": {
@@ -17,8 +17,15 @@
   "scripts": {
     "test": "ava"
   },
-  "files": ["cli.js"],
-  "keywords": ["cli-app", "cli", "countries", "country"],
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "countries",
+    "country"
+  ],
   "dependencies": {
     "chalk": "^2.4.1",
     "country-data": "^0.0.31",
