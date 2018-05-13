@@ -2,6 +2,7 @@
   "name": "countries-cli",
   "version": "0.1.0",
   "description": "Query country information.",
+  "repository": "jakeklassen/countries-cli",
   "author": {
     "name": "Jake Klassen",
     "email": "jklassendev@gmail.com"
